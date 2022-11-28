@@ -1,0 +1,30 @@
+{
+  "name": "whistle-backend",
+  "version": "1.0.0",
+  "description": "backend powering whistle project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wachukxs/whistle-nodejs.git"
+  },
+  "keywords": [
+    "eth",
+    "etherum",
+    "web3"
+  ],
+  "author": "@wachukxs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wachukxs/whistle-nodejs/issues"
+  },
+  "homepage": "https://github.com/wachukxs/whistle-nodejs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "sequelize": "^6.25.8"
+  }
+}
