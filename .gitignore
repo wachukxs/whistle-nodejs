@@ -164,6 +164,7 @@ dist
 
 # Customs
 /tests
+/txts
 
 # Hardhat generated folders
 /cache
