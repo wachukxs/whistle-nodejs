@@ -168,4 +168,4 @@ dist
 
 # Hardhat generated folders
 /cache
-/artifacts
+/artifacts/build-info
